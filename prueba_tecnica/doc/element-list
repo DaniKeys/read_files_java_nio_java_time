@@ -1,0 +1,8 @@
+com.modusoftware.test
+com.modusoftware.test.bussines
+com.modusoftware.test.bussines.impl
+com.modusoftware.test.controller.web
+com.modusoftware.test.dto
+com.modusoftware.test.persistent.entity
+com.modusoftware.test.persistent.repository
+com.modusoftware.test.util.operationInvalid
