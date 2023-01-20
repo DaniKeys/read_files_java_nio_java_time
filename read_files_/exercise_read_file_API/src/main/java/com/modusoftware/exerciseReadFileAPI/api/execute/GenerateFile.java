@@ -13,7 +13,8 @@ public class GenerateFile {
 	
 	 public static void escribirArchivoEM(String ruta2, List<EmployeeDTO> listMale) {
 		   
-		   
+		   /*
+		    * */
 	   		File archivo = new File(ruta2);
 			 	
 		        try {
